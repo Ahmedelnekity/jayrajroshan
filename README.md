@@ -1,14 +1,30 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
-<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+<img src="https://your-image-host.com/ahmed-elnikity-logo.jpg" width="100%" />
 
+## 👋 Hi, I'm Ahmed ElNekity
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/jayrajroshan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@jayrajroshan1@gmail.com)
+I'm a communications & electronics engineering student passionate about:
 
-## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+- ⚙️ Digital Design & RTL using Verilog  
+- 🌐 Networking & CCNA Fundamentals  
+- ☁️ Cloud & DevOps Basics  
+- 🧠 Always curious, always learning  
+
+---
+
+## 🔗 Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-elnekity-711347318/)](https://www.linkedin.com/in/ahmed-elnekity-711347318/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0112598877o@gmail.com)](mailto:0112598877o@gmail.com)
+
+---
+
+## ⚡️ Skills:
+- Verilog / SystemVerilog  
+- Digital Logic Design  
+- Linux Basics  
+- CCNA (IP, Routing, Switching)  
+- Docker & Git (beginner)
+
+---
+
+<!-- You can add more sections like Projects, Certificates, etc. -->
